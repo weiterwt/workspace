@@ -2,3 +2,4 @@ nihao a
 hello world
 test the branch
 test the merge conflict
+Test conflicts
