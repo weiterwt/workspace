@@ -1,4 +1,30 @@
+<<<<<<< HEAD
 *.[oa]
 *~
 !lib.a
 testrm.txt
+=======
+#c++
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+#myfile
+tags
+test
+backup
+>>>>>>> 0a02a50c5092d7fd5fe152f80aa3353c2a282ea7
