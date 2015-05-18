@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-*.[oa]
+
 *~
 !lib.a
 testrm.txt
-=======
+
 #c++
 *.slo
 *.lo
@@ -27,4 +26,4 @@ testrm.txt
 tags
 test
 backup
->>>>>>> 0a02a50c5092d7fd5fe152f80aa3353c2a282ea7
+
